@@ -10,7 +10,7 @@
 
 ## Yahallo, I'm Yozora.
 
-**Phan Chí Vỹ / `@Kyokkei`** · IC Design student at **IUH** (Industrial University of Ho Chi Minh City).
+**Phan Chí Vỹ / `@Yuukitake`** · IC Design student at **IUH** (Industrial University of Ho Chi Minh City).
 
 Silicon by day. Frontier AI jailbreak research and native systems by night. I break safety alignments, build zero-telemetry utilities, and engineer applications that put control in the user's hands.
 
@@ -20,7 +20,7 @@ Silicon by day. Frontier AI jailbreak research and native systems by night. I br
 
 ## Selected projects
 
-### 01 / [Zora.AI ↗](https://github.com/Kyokkei/Zora.AI)
+### 01 / [Zora.AI ↗](https://github.com/Yuukitake/Zora.AI)
 
 **A native Android AI companion. Your API, your rules.**
 
@@ -28,9 +28,9 @@ Real-time duplex voice, unrestricted persona customization, gyro-parallax visual
 
 `Kotlin` · `Jetpack Compose` · `Room` · `Gemini Live`
 
-[![Zora.AI latest release](https://img.shields.io/github/v/release/Kyokkei/Zora.AI?style=flat-square&label=release&color=7aa2f7)](https://github.com/Kyokkei/Zora.AI/releases/latest) &nbsp; [Explore the app →](https://github.com/Kyokkei/Zora.AI#-interface-showcase)
+[![Zora.AI latest release](https://img.shields.io/github/v/release/Yuukitake/Zora.AI?style=flat-square&label=release&color=7aa2f7)](https://github.com/Yuukitake/Zora.AI/releases/latest) &nbsp; [Explore the app →](https://github.com/Yuukitake/Zora.AI#-interface-showcase)
 
-### 02 / [Fukidashi MCP ↗](https://github.com/Kyokkei/fukidashi-mcp)
+### 02 / [Fukidashi MCP ↗](https://github.com/Yuukitake/fukidashi-mcp)
 
 **A local manga localization studio for AI agents.**
 
@@ -38,17 +38,17 @@ Offline vision, OCR, LaMa inpainting, and smart typesetting, connected through M
 
 `Rust` · `MCP` · `RT-DETR` · `LaMa` · `egui`
 
-[![Fukidashi MCP latest release](https://img.shields.io/github/v/release/Kyokkei/fukidashi-mcp?style=flat-square&label=release&color=bb9af7)](https://github.com/Kyokkei/fukidashi-mcp/releases/latest) &nbsp; [See the pipeline →](https://github.com/Kyokkei/fukidashi-mcp#-demo-pipeline)
+[![Fukidashi MCP latest release](https://img.shields.io/github/v/release/Yuukitake/fukidashi-mcp?style=flat-square&label=release&color=bb9af7)](https://github.com/Yuukitake/fukidashi-mcp/releases/latest) &nbsp; [See the pipeline →](https://github.com/Yuukitake/fukidashi-mcp#-demo-pipeline)
 
 ### Also in orbit
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
-| **[RamNuker](https://github.com/Kyokkei/RamNuker)** | Windows working-set RAM purger with a terminal UI and scheduled automation. | Rust · Win32 · Ratatui |
-| **[ProjectBeta](https://github.com/Kyokkei/ProjectBeta)** | Gamified digital discipline with BetaToken economics, loot cases, and an AI Keyholder. | Kotlin · Android |
-| **[SekaiTimer](https://github.com/Kyokkei/SekaiTimer)** | Project SEKAI event tracking in an Android widget, with a native MediaWiki parser. | Java 17 · Zero dependencies |
+| **[RamNuker](https://github.com/Yuukitake/RamNuker)** | Windows working-set RAM purger with a terminal UI and scheduled automation. | Rust · Win32 · Ratatui |
+| **[ProjectBeta](https://github.com/Yuukitake/ProjectBeta)** | Gamified digital discipline with BetaToken economics, loot cases, and an AI Keyholder. | Kotlin · Android |
+| **[SekaiTimer](https://github.com/Yuukitake/SekaiTimer)** | Project SEKAI event tracking in an Android widget, with a native MediaWiki parser. | Java 17 · Zero dependencies |
 
-**Research notes:** [AI models, IDEs, and jailbreak evaluations →](https://github.com/Kyokkei/AI-evaluation-report-2026)
+**Research notes:** [AI models, IDEs, and jailbreak evaluations →](https://github.com/Yuukitake/AI-evaluation-report-2026)
 
 ---
 
